@@ -23,6 +23,6 @@ production:
   host: localhost
   database: cryptocompare
   username: root
-  password: 'Yuu,3a7&T2'
+  password: ''
   variables:
     sql_mode: TRADITIONAL
